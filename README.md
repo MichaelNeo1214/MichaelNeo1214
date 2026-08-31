@@ -1,5 +1,7 @@
 # Hi there, I'm Michael 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=MichaelNeo1214&color=007ec6&style=flat-square) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael(Assencio)Pratama)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://michaelap.my.id)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelassencio@gmail.com)
@@ -37,17 +39,9 @@
 
 ### 📊 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=MichaelNeo1214&color=007ec6&style=flat-square) 
-
-### 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=MichaelNeo1214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MichaelNeo1214&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelNeo1214&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
