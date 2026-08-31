@@ -38,6 +38,8 @@
 ### 📊 GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=MichaelNeo1214&color=007ec6&style=flat-square) 
+<img src="https://github-readme-stats.vercel.app/api?username=MichaelNeo1214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Michael's GitHub Stats" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=GitHub+Commit+Streak" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelNeo1214&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelNeo1214&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 ---
 
 ### ⚡ Fun Fact
