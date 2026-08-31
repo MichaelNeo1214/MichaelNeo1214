@@ -37,8 +37,7 @@
 
 ### 📊 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=MichaelNeo1214&color=007ec6&style=flat-square) ![wakatime](https://wakatime.com/badge/user/MichaelNeo1214.svg?style=flat-square)
-
+![Profile views](https://komarev.com/ghpvc/?username=MichaelNeo1214&color=007ec6&style=flat-square) 
 ---
 
 ### ⚡ Fun Fact
