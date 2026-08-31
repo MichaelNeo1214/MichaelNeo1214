@@ -37,10 +37,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-github-anda&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-anda&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=MichaelNeo1214&color=007ec6&style=flat-square) ![wakatime](https://wakatime.com/badge/user/MichaelNeo1214.svg?style=flat-square)
 
 ---
 
